@@ -14,6 +14,16 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
+## Table of Content
+- [User Story](#user-story)
+- [Business Context](#business-context)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Commit Early and Often](#commit-early-and-often)
+- [Submission on BCS](#submission-on-bcs)
+- [Hint](#hint)
+- [Installation](#installation)
+- [Mock Up](#mock-up)
+
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
@@ -68,3 +78,10 @@ THEN that will be shown on the page, and added to their transaction history when
 * In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module.
 
 * Use [Google](https://www.google.com) or another search engine to research this topic.
+
+## Installation
+- run `npm install` to install dependencies
+- run `npm run start` to run in local host 
+
+## Mock Up
+[![HW-19img.png](https://i.postimg.cc/NfR3z9yW/HW-19img.png)](https://postimg.cc/F7sCfKVZ)
